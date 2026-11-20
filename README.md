@@ -38,7 +38,7 @@ flutter analyze
 
 ## Connexion de démonstration
 
-- Identifiant : `elisabeth`
+- Identifiant : `bella`
 - Mot de passe : `cv2026`
 
 Ces identifiants sont définis dans `lib/data/personal_info.dart`. Il s’agit d’un accès local de démonstration, pas d’un système d’authentification destiné à la production.
