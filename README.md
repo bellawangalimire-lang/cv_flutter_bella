@@ -70,13 +70,25 @@ screenshots/       # Captures de l’application exécutée
 
 ## Captures d’écran
 
-Les captures doivent provenir de l’application exécutée sur un appareil ou un émulateur. Aucun émulateur Android n’est installé dans l’environnement et le rendu Flutter dans Chrome headless est resté blanc. Les quatre captures réelles ne sont donc pas disponibles. Après lancement sur un appareil, enregistrez ces fichiers ici :
+### Connexion
 
-- Connexion : `screenshots/01-login.png`
-- Accueil / CV : `screenshots/02-accueil.png`
-- Famille : `screenshots/03-famille.png`
-- Contact : `screenshots/04-contact.png`
+![Écran de connexion](screenshots/loginPage.png)
 
+### Accueil
+
+![Page d’accueil](screenshots/home_page.png)
+
+### CV
+
+![Page du CV](screenshots/cv_page.png)
+
+### Famille
+
+![Page de la famille](screenshots/family_page.png)
+
+### Contact
+
+![Page de contact](screenshots/contact_page.png)
 ## GitHub
 
 Le projet local porte le nom `cv_flutter_bella`. Aucun dépôt GitHub n’a été créé ou publié dans cette livraison.
