@@ -110,7 +110,7 @@ Les captures existantes sont conservées dans `screenshots/` :
 
 ## Démonstration vidéo
 
-[Regarder la démonstration de l’application Flutter](./screenshots/video_tp.mp4)
+[▶ Lire la démonstration de l’application Flutter](https://raw.githubusercontent.com/bellawangalimire-lang/cv_flutter_bella/main/screenshots/video_tp.mp4)
 
 ## GitHub
 
