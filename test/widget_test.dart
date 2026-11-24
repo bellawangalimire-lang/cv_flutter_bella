@@ -5,7 +5,7 @@ void main() {
   testWidgets('Connexion s’affiche au lancement', (tester) async {
     await tester.pumpWidget(const CvApp());
     expect(find.text('Bienvenue'), findsOneWidget);
-    expect(find.text('Identifiant'), findsOneWidget);
+    expect(find.text('Adresse e-mail'), findsOneWidget);
     expect(find.text('Mot de passe'), findsOneWidget);
     expect(find.text('Se connecter'), findsOneWidget);
   });
